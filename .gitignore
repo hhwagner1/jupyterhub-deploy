@@ -114,3 +114,4 @@ hub/charts/
 # So we don't accidentally commit decrypted secrets
 *.unsafe
 *.unencrypted
+.Rproj.user
